@@ -287,4 +287,5 @@ if __name__ == '__main__':
 
     # Display the results
     print("Plotting the results")
+   print("3333")
     plot(results)
