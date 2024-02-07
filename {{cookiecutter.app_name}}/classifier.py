@@ -287,5 +287,5 @@ if __name__ == '__main__':
 
     # Display the results
     print("Plotting the results")
-    print('hello 1112')
+    print('hello')
     plot(results)
